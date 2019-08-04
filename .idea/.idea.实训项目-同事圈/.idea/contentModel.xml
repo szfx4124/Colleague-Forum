@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ZJH\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ZJH\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_实训项目-同事圈.420477042.00" t="ExcludeRecursive" />
+    <e p="D:\扬海工作\实训项目\实训项目-同事圈" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="实训项目-同事圈" t="IncludeRecursive">
+        <e p="back" t="Include">
+          <e p="back.aspx" t="Include" />
+          <e p="back.aspx.designer.vb" t="Include" />
+          <e p="back.aspx.vb" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="forward" t="Include">
+          <e p="Content.aspx" t="Include" />
+          <e p="CSS" t="Include">
+            <e p="index.css" t="Include" />
+          </e>
+          <e p="images" t="Include">
+            <e p="1.jpg" t="Include" />
+            <e p="2.jpg" t="Include" />
+            <e p="3.jpg" t="Include" />
+            <e p="4.jpg" t="Include" />
+            <e p="5.jpg" t="Include" />
+            <e p="6.jpg" t="Include" />
+            <e p="7.jpg" t="Include" />
+            <e p="8.jpg" t="Include" />
+            <e p="bg1.jpg" t="Include" />
+            <e p="bg2.jpg" t="Include" />
+            <e p="bg3.jpg" t="Include" />
+            <e p="img1.jpg" t="Include" />
+            <e p="img2.jpg" t="Include" />
+            <e p="img3.jpg" t="Include" />
+            <e p="img4.jpg" t="Include" />
+            <e p="img5.jpg" t="Include" />
+            <e p="my.jpg" t="Include" />
+            <e p="praise.png" t="Include" />
+            <e p="Thumbs.db" t="Include" />
+          </e>
+          <e p="JS" t="Include">
+            <e p="index.js" t="Include" />
+          </e>
+          <e p="Login.aspx" t="Include" />
+          <e p="MyContent.aspx" t="Include" />
+          <e p="Register.aspx" t="Include" />
+          <e p="Release.aspx" t="Include" />
+        </e>
+        <e p="My Project" t="Include">
+          <e p="Application.Designer.vb" t="Include" />
+          <e p="Application.myapp" t="Include" />
+          <e p="AssemblyInfo.vb" t="Include" />
+          <e p="MyExtensions" t="Include">
+            <e p="MyWebExtension.vb" t="Include" />
+          </e>
+          <e p="Resources.Designer.vb" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.vb" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+        <e p="实训项目-同事圈.vbproj" t="IncludeRecursive" />
+      </e>
+      <e p="实训项目-同事圈.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
